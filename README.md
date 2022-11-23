@@ -1,27 +1,12 @@
-# AngularContactApp
+# Angular Contact App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.9.
+Angular 12  with NgRx, HTTP & GitHub Search Application, Routing & Lazy loading.
+Server-side technologies Node JS, Express JS, Mongo DB.
 
-## Development server
+<img width="1377" alt="Screen Shot 1444-04-29 at 6 00 02 PM" src="https://user-images.githubusercontent.com/62115527/203579023-1b9eb09a-f8e0-4caf-bc3b-52521b0064f4.png">
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<img width="1377" alt="Screen Shot 1444-04-29 at 5 48 39 PM" src="https://user-images.githubusercontent.com/62115527/203579041-8308b768-ca39-49fa-8a2c-18c5afac2769.png">
 
-## Code scaffolding
+<img width="1377" alt="Screen Shot 1444-04-29 at 5 48 52 PM" src="https://user-images.githubusercontent.com/62115527/203579060-965f2e57-4cec-4623-95d4-4a1e43b9b8ac.png">
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<img width="1377" alt="Screen Shot 1444-04-29 at 5 48 58 PM" src="https://user-images.githubusercontent.com/62115527/203579068-581c529b-7e61-4558-bc28-a8a5d691ad74.png">
